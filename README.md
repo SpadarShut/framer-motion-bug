@@ -1,0 +1,1 @@
+Example repo showcasing a bug where Framer motion calculates wrong top position of shared layout  animations if they are rendered inside a Fragment node.
